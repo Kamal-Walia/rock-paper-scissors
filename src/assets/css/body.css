@@ -1,0 +1,28 @@
+/* button{
+    width:100%;
+    background-color: transparent;
+    border: none;
+    border-bottom:1px solid #ccc;
+} */
+p{
+    text-align: right;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 24px;
+    margin: 15px;
+}
+.option {
+    height: 60px;
+    width: 60px;
+    margin: 20px;
+    font-size: xx-large;
+}
+.options {
+    display: inline-flex;
+    flex-direction: column;
+}
+.vs {
+    text-align: center;
+}
+.user {
+    float: right;
+}
